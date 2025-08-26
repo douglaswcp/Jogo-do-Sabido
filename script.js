@@ -1,4 +1,3 @@
-```javascript
 const dados = {
   "Vermelho": [2, 20, 11, 24, 8, 16],
   "Azul": [3, 18, 10, 21, 5, 13],
@@ -118,6 +117,6 @@ function animarDados3D(jogada) {
 
   animate();
 }
-```
-
----
+apps-fileview.texmex_20250814.00_p1
+script.txt
+Exibindo script.txt…
