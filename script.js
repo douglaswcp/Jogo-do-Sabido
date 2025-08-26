@@ -117,6 +117,3 @@ function animarDados3D(jogada) {
 
   animate();
 }
-apps-fileview.texmex_20250814.00_p1
-script.txt
-Exibindo script.txt…
