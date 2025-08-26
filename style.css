@@ -1,4 +1,22 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jogo Educativo - Dados 3D</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🎲 Jogo Educativo - Dados 3D</h1>
+  <button id="rollBtn">Girar Dados</button>
+  <div id="sceneContainer"></div>
+  <div id="resultado"></div>
+
+  https://unpkg.com/three@0.152.2/build/three.min.js
+  <script src="script.js"></script>
+</body>
+</```css
 body {
   font-family: Arial, sans-serif;
   text-align: center;
@@ -28,6 +46,6 @@ button {
 button:hover {
   background: #218838;
 }
-```
-
----
+apps-fileview.texmex_20250814.00_p1
+index.html
+Exibindo index.html…
